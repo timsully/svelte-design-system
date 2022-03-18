@@ -1,0 +1,2 @@
+# svelte-design-system
+This repo will focus on the creation of various svelte components and applying a visual style to these elements. Think of this as kitchen sink resource and also a place to grab aesthetically pleasing, functional, responsive components built in Svelte. Minus all the JS to make this stuff work in the context of the product you're building. It's basically my cheatsheet for building shit once and hopefully never again, lul.
